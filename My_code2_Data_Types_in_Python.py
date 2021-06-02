@@ -7,7 +7,7 @@
 
 ##Mutable and Immutable Objects
 
-##Mutable Data types in Python 1. List 2.Dictionary 3.Set
+##2.1 Mutable Data types in Python 1. List 2.Dictionary 3.Set
 
 ##Let us start with 1.List                                     - in python we use [  ] - for list
 
